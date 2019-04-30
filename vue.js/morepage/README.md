@@ -26,19 +26,25 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 --安装cnpm
+
 npm install -g cnpm --registry=https://registry.npm.taobao.org
 
 --安装vue-cli
+
 npm install -g vue-cli
 
 --更新
+
 npm install
 
 --安装http
+
 npm install vue-resource
 
 --安装ant-design-vue
+
 npm i --save ant-design-vue
 
 --运行
+
 npm run dev
