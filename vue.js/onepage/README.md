@@ -1,3 +1,8 @@
+简介：
+
+此项目是单页面项目，主要用于验证非build时的自动路由
+
+
 # onepagesite
 
 > A Vue.js project
